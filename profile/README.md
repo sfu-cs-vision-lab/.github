@@ -1,6 +1,6 @@
 # Simon Fraser University, Computational Vision Laboratory 
 
-The Laboratory part of the [Schoool of Computing Science](https://www.sfu.ca/fas/computing.html) in the [Faculty of Applied Science](http://fas.sfu.ca/) at [Simon Fraser Univerity](https://www.sfu.ca)
+The Laboratory part of the [School of Computing Science](https://www.sfu.ca/fas/computing.html) in the [Faculty of Applied Science](http://fas.sfu.ca/) at [Simon Fraser University](https://www.sfu.ca)
 
 * **Lab Director**  --- [Dr. Brian Funt](https://www.cs.sfu.ca/~funt/)
 
